@@ -53,7 +53,7 @@ API-ключ CoinGecko (получите демо-ключ на CoinGecko API)
 
 Инструкции
 
-Клонируйте репозиторий:git clone https://github.com/your-username/crypto-analysis.git
+Клонируйте репозиторий:git clone https://github.com/homlesskre8d/small_crypto.git
 
 
 Установите зависимости:pip install -r requirements.txt
@@ -64,7 +64,7 @@ API-ключ CoinGecko (получите демо-ключ на CoinGecko API)
 }
 
 
-Запустите скрипт сбора данных:python scripts/collect_data.py
+Запустите скрипт сбора данных:python scripts/get_data.py
 
 Это создаст базу данных data/crypto_data.db с данными о Bitcoin и Ethereum.
 Запустите скрипт анализа и визуализации:python scripts/analyze_data.py
@@ -131,10 +131,4 @@ API-ключ CoinGecko (получите демо-ключ на CoinGecko API)
 Контакты
 Этот проект создан для демонстрации навыков дата-аналитики. Свяжитесь со мной:
 
-Email: [ваш@email.com]
-LinkedIn: [ваш профиль LinkedIn]
-GitHub: [ваш профиль GitHub]
-
-Если у вас есть предложения по улучшению или вы хотите обсудить проект, создайте Issue или Pull Request!
-Лицензия
-MIT License
+Email: ver8dan99921@gmail.com
