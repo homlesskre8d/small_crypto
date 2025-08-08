@@ -1,0 +1,6 @@
+data/
+keys.json
+crypto_data.log
+crypto_analysis.log
+__pycache__/
+*.pyc
